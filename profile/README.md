@@ -20,7 +20,9 @@ of data about the environment.
 The Ribbit Network saves the sensor data and makes it accessible for scientists everywhere to analyze and pinpoint emissions. Using this data we can identify and track emissions, allowing us to verify our assumptions about climate and hold ourselves accountable through corporate, government, and individual action.
 
 ## Contributing
-We welcome you as a contributor! Each repo listed above has information on how to get involved! A good first step is to join our [discord](https://discord.gg/vq8PkDb2TC)!
+We welcome you as a contributor! We maintain [a public project with all the work-in-progress and work to be done here.](https://github.com/orgs/Ribbit-Network/projects/1)
+
+[If you are not sure where to start or just want to chat join our developer discord here.](https://discord.gg/vq8PkDb2TC).
 
 ## Questions?
 [Check out the Frequently Asked Questions section.](https://github.com/Ribbit-Network/ribbit-network-faq) If you don't see your question, let us know either in a Github Discussion or via Discord.
