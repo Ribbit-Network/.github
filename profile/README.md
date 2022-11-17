@@ -18,7 +18,7 @@ of data about the environment.
 ## [Dashboard](https://github.com/Ribbit-Network/ribbit-network-dashboard)
 The Ribbit Network saves the sensor data and makes it accessible for scientists everywhere to analyze and pinpoint emissions. Using this data we can identify and track emissions, allowing us to verify our assumptions about climate and hold ourselves accountable through corporate, government, and individual action.
 
-[View the live data here.](https://ribbit-network.herokuapp.com/)
+[View the live data here.](https://dashboard.ribbitnetwork.org/)
 
 ## Contributing
 We welcome you as a contributor! We maintain [a public project with all the work-in-progress and work to be done here.](https://github.com/orgs/Ribbit-Network/projects/1)
