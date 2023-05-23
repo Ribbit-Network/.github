@@ -22,6 +22,9 @@ The Ribbit Network saves the sensor data and makes it accessible for scientists 
 
 [View the live data here.](https://dashboard.ribbitnetwork.org/)
 
+## Get Involved
+Are you interested in getting more involved or leading an effort in the Ribbit Network project? We are recruiting for additional members to join the Core Team. [See the Open Roles and descriptions here.](https://ribbitnetwork.notion.site/Core-Team-Role-Postings-105df298e0634f179f8f063c01708069)
+
 ## Contributing
 We welcome you as a contributor! We maintain [a public project with all the work-in-progress and work to be done here.](https://github.com/orgs/Ribbit-Network/projects/1)
 
