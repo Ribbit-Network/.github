@@ -1,5 +1,4 @@
 # Ribbit Network
-[![Chat](https://img.shields.io/discord/870113194289532969.svg?style=flat-square&colorB=758ED3)]([https://discord.gg/vq8PkDb2TC](https://join.slack.com/t/ribbitnetworkgroup/shared_invite/zt-2vxvbo7ld-S36SgfDiev~ZQ2zvp03FOg))
 
 [This project will create the world's largest Greenhouse Gas Emissions dataset that will empower anyone to join in the work on climate and provide informed data for climate action.](https://ribbitnetwork.org/)
 
@@ -27,7 +26,7 @@ The best first way to start is by [building a Frog Sensor.](https://ribbit-netwo
 
 Are you interested in getting more involved or leading an effort in the Ribbit Network project? We want to hear from you!
 
-Let us know in the [Discussion forum](https://github.com/orgs/Ribbit-Network/discussions) or in our [Slack channel.]([https://discord.gg/vq8PkDb2TC](https://join.slack.com/t/ribbitnetworkgroup/shared_invite/zt-2vxvbo7ld-S36SgfDiev~ZQ2zvp03FOg))
+Let us know in the [Discussion forum](https://github.com/orgs/Ribbit-Network/discussions) or in our [Slack channel.](https://join.slack.com/t/ribbitnetworkgroup/shared_invite/zt-2vxvbo7ld-S36SgfDiev~ZQ2zvp03FOg)
 
 ## Questions?
 [Check out the Frequently Asked Questions section.](https://github.com/Ribbit-Network/ribbit-network-faq) If you don't see your question, let us know either in a Github Discussion or via Discord.
